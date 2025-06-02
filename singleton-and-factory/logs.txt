@@ -1,0 +1,5 @@
+2025-06-01T16:36:39.425Z: este es un mensaje por loggerfile
+2025-06-01T16:37:09.460Z: este es un mensaje por loggerfile
+2025-06-01T16:37:09.461Z: este es un segundo mensaje por loggerfile
+2025-06-01T16:38:03.388Z: este es un mensaje por loggerfile
+2025-06-01T16:38:03.389Z: este es un segundo mensaje por loggerfile
